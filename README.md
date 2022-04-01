@@ -3,7 +3,7 @@
 This is a sample application implemented using  Node.js and React to demonstrate how to implement server sent events. 
 
 ## Prerequisites
-* Node.js 12+
+* Node.js
 * React with hooks
 
 ## Setup & Run the backend
