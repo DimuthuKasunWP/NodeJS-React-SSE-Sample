@@ -24,7 +24,7 @@ yarn start / npm start
 
 
 ## Test
-Send a POST request to the route [http://localhost:4650/donate](http://localhost:4650/donate) with the following body:
+Send a POST request to the route [http://localhost:3001/message](http://localhost:3001/donate) with the following body:
 ```json
 {
   "message": "this is the first message"
